@@ -5,11 +5,15 @@
   font-family: "Plain Light";
   color: #ffffff;
 }
-
 html,
 body {
   height: 100%;
   width: 100%;
   cursor: default;
   background: #202020;
+}
+.landing_Page {
+  height: 100vh;
+  width: 100%;
+  background-image: linear-gradient(to right , rgba(0, 0, 0, 0.1), rgba(255, 255, 255, 0.1));
 }
