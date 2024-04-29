@@ -4,7 +4,7 @@ import "./App.css";
 function App() {
   return (
     <>
-      <nav>Nexaflux</nav>
+      <h1>Nexaflux</h1>
     </>
   );
 }

@@ -1,5 +1,4 @@
 # NexaFlux 
-## Currntly on Working
-
-### This is a crypto calcutor based website.
-### It made On React , Django 
+## Currently in development...
+### This is a crypto calculator based website.
+### It made On React, Django

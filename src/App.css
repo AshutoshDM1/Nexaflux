@@ -1,1 +1,15 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  font-family: "Plain Light";
+  color: #ffffff;
+}
 
+html,
+body {
+  height: 100%;
+  width: 100%;
+  cursor: default;
+  background: #202020;
+}
